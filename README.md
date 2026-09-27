@@ -6,7 +6,7 @@ Analysis of global tech industry layoffs — from raw data to an interactive das
 
 ## Dashboard
 
-![Tech Layoffs Dashboard](dashboard_screenshot.png)
+(dashboard_screenshot.png)
 
 ## Pipeline
 
