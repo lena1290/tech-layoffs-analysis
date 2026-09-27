@@ -5,8 +5,7 @@ Analysis of global tech industry layoffs — from raw data to an interactive das
 **Tools:** SQL · Python (Pandas, Matplotlib) · Power BI
 
 ## Dashboard
-
-![Tech Layoffs Dashboard](dashboard screenshot.png)
+<img width="1349" height="756" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/4d525b35-390a-444b-bcb7-3f1aa163f027" />
 
 ## Pipeline
 
